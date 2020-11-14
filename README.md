@@ -1,6 +1,8 @@
-# comp0127_lab
-Collection of packages for the lab sessions in COMP0127 Robotic Systems Engineering
+# ROS learning materails for xiaoyun liang
+author: Liming Gao
+date: 2020-11-13
 
+Collection of packages for the ROS learning materails for xiaoyun liang
 
 Dependencies:
 `sudo apt install ros-kinetic-controller-manager ros-kinetic-joint-state-controller ros-kinetic-effort-controllers ros-kinetic-gazebo-ros-control ros-kinetic-joint-trajectory-controller ros-kinetic-velocity-controllers ros-kinetic-ros-controllers ros-kinetic-ros-control`
